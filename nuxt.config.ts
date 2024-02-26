@@ -8,9 +8,5 @@ export default defineNuxtConfig({
     description: 'Welcome to nuxt starter!',
     defaultLocale: 'en', // not needed if you have @nuxtjs/i18n installed
   },
-  modules: [
-    "@pinia/nuxt",
-    "@vueuse/nuxt",
-    "@nuxtjs/seo"
-  ]
+ 
 })
